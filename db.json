@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 15000,
+      "comment": "New product",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 50000,
+      "comment": "New",
+      "date": "2022-10-06T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
